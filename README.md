@@ -15,7 +15,7 @@ Randolph’s Coffee Sales Analyst pulls their sales data from a 3rd party source
 
 I built and automated web scraper to pull the data using selenium to pull the data from the resource (YouTube: Mo Chen), and an automated report builder to prepare the Microsoft Excel report. These models help operational efficiency so an employee may handle other tasks while the report is being prepared. 
 
-Currently, the report generation currently takes an average of 18.5 minutes to run due to the data processing inefficiencies caused by xlwings. I plan to optimize pandas to prepare the data to reduce run time.
+Currently, the report generation currently takes an average of 18.5 minutes to run due to the data processing inefficiencies caused by xlwings. I plan to optimize pandas to prepare the data to reduce run time. Additionally, I plan to pull the data from Mo Chen's YouTube video using their API.
 
 
 ## Table of Contents:
@@ -32,5 +32,7 @@ Currently, the report generation currently takes an average of 18.5 minutes to r
 
 ## Future scopes:
 - Automated Report Generator
-    - Modifying Python script to use pandas to clean and prepare data instead of xlwings
+    - Modify Python script to use pandas to clean and prepare data instead of xlwings
+- Daily Web Scraper
+    - Modify script to pull data using API
 
