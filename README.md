@@ -30,7 +30,7 @@ Currently, the report generation currently takes an average of 18.5 minutes to r
   - Power BI Dashboard (visualizations of sales data)
 
 
-## Future scopes:
+### Future scopes:
 - Automated Report Generator
     - Modify Python script to use pandas to clean and prepare data instead of xlwings
 - Daily Web Scraper
