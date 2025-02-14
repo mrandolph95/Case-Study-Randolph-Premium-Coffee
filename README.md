@@ -27,6 +27,11 @@ Currently, the report generation currently takes an average of 18.5 minutes to r
     - Python script
     - README
     - Modified Excel workbook
+  - Project 3: Customer Churn
+    - Python cript
+    - README
+    - SQL script
+    - SQL results as CSV file
   - Power BI Dashboard (visualizations of sales data)
 
 
